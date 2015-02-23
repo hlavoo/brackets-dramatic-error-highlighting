@@ -1,0 +1,19 @@
+{
+    "title": "Dramatic Error Highliting",
+    "name": "dramatic-error-highlighting",
+    "description": "Overrides theme error highliting for optimal visibility of errors.",
+    "version": "0.0.1",
+    "author": "Henry LaVoo <design@henrylavoo.com> (http://henrylavoo.com/)",
+    "homepage": "https://github.com/henrylavoo/brackets-dramatic-error-highlighting",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/henrylavoo/brackets-dramatic-error-highlighting"
+    },
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "files": [
+      "main.js",
+      "main.less"
+    ]
+}
